@@ -36,6 +36,12 @@
 
 ## Setup (Server)
 
+Install dependencies
+
+```bash
+pnpm install
+```
+
 Start Server
 
 ```bash
