@@ -45,9 +45,9 @@ pnpm install
 Start Server
 
 ```bash
-    nodemon .
-    # or
-    nodemon server/index.js
+nodemon .
+# or
+nodemon server/index.js
 ```
 
 ---
