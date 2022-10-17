@@ -1,0 +1,19 @@
+#root {
+  text-align: center;
+}
+
+form {
+  @apply flex flex-col gap-3 min-w-[564px] max-w-2xl mx-auto p-16 bg-slate-100 rounded-lg drop-shadow-md;
+}
+
+label {
+  @apply flex flex-col items-start text-slate-500;
+}
+
+input {
+  @apply border p-5 rounded-md;
+}
+
+input:is(:focus, :active) {
+  @apply outline-none;
+}
