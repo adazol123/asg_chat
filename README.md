@@ -48,16 +48,22 @@ Start Server
 
 ## Setup (Client)
 
+Install dependencies
+
+```bash
+pnpm install
+```
+
 Start Client on development
 
 ```bash
-    pnpm run dev
+pnpm run dev
 ```
 
 Build app
 
 ```bash
-    pnpm run build
+pnpm run build
 ```
 
 ---
